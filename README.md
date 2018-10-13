@@ -4,7 +4,7 @@ Idea from:android-gpuimage
 
 Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Android
 
-包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改 
+包含美颜相机，可拍照、录像、图片修改 ，美颜操作如美白，祛痘，磨皮等操作。
 
 #Log:
 
@@ -27,4 +27,4 @@ This project is still under coding and will be updated later,only used eclipse b
 
 #ScreenShot
 
-![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_1.png)![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_2.png)![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_3.png)![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_4.png)
+
