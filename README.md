@@ -27,4 +27,7 @@ This project is still under coding and will be updated later,only used eclipse b
 
 #ScreenShot
 
+https://github.com/liuguangda888/beautycamera/blob/master/original.JPG
+https://github.com/liuguangda888/beautycamera/blob/master/screenshot_1.png
+https://github.com/liuguangda888/beautycamera/blob/master/screenshot_2.png
 
